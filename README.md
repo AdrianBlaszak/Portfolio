@@ -52,5 +52,5 @@ Hello, my name is Adrian Błaszak. I've recently become interested in software t
 * [Use case testing on avans.pl site](https://docs.google.com/document/d/1N__OJPNwNp7AwyOePCYjO-bWisMeKIrgGAUfozriK1I/edit?usp=sharing)
 * [Project for Connectors Poland. Bug reports after exploratory testing session for Connectors Poland site](https://docs.google.com/document/d/1-Z8he3ikSRP2jPIw5rDS12Q2H4eEjXMT7DkxmJykIfQ/edit?usp=sharing)
 * [Decision tables](https://docs.google.com/spreadsheets/d/1bWwu-FIWhCCP-oo-RqF25ioZBFQ2aTZBMgQMllcHwWk/edit?usp=sharing)
-* [Simble Books API testing in Postman](https://docs.google.com/spreadsheets/d/1bWwu-FIWhCCP-oo-RqF25ioZBFQ2aTZBMgQMllcHwWk/edit?usp=sharing)
+* [Simble Books API testing in Postman](https://drive.google.com/file/d/1A6Aew2KBt2fO3KPxyWVmSXd605Q0zoLT/view?usp=sharing)
 
