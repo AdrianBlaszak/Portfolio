@@ -45,4 +45,12 @@ Hello, my name is Adrian Błaszak. I've recently become interested in software t
 
 ## My projects
 
-* 
+* [Test cases for filmweb.pl site](https://docs.google.com/spreadsheets/d/1NBvXWGpcJrJqnTUG0ghBeSqPWLZBD_X3FmvGyLYzIIo/edit?usp=sharing)
+* [Test cases in TestRail for My Anime List site with test runs and test report using Lighthouse in DevTools](https://drive.google.com/file/d/1rqoSWbOBKzKUOwc0F9Fs8qyA5eX4yE55/view?usp=sharing)
+* [Media Expert site bug reports](https://docs.google.com/document/d/153qvFNQA6Kq6836mHFQ4E0cEV724YO49Poh1OeZLjjk/edit?usp=sharing)
+* [Electro.pl site bug report](https://docs.google.com/document/d/1HSfWFSXl-tiB6O7lEq-qjKwKbpnC-1p33LfuRojy9us/edit?usp=sharing)
+* [Use case testing on avans.pl site](https://docs.google.com/document/d/1N__OJPNwNp7AwyOePCYjO-bWisMeKIrgGAUfozriK1I/edit?usp=sharing)
+* [Project for Connectors Poland. Bug reports after exploratory testing session for Connectors Poland site](https://docs.google.com/document/d/1-Z8he3ikSRP2jPIw5rDS12Q2H4eEjXMT7DkxmJykIfQ/edit?usp=sharing)
+* [Decision tables](https://docs.google.com/spreadsheets/d/1bWwu-FIWhCCP-oo-RqF25ioZBFQ2aTZBMgQMllcHwWk/edit?usp=sharing)
+* [Simble Books API testing in Postman](https://docs.google.com/spreadsheets/d/1bWwu-FIWhCCP-oo-RqF25ioZBFQ2aTZBMgQMllcHwWk/edit?usp=sharing)
+
