@@ -20,11 +20,11 @@ Hello, my name is Adrian Błaszak. I've recently become interested in software t
 
 ## Certificates
 
-* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 86668
+* [ISTQB Certified Tester Foundation Level](https://drive.google.com/file/d/1_ws-AnxT3dki9ZfP9Qjna2CFrBWtrKyQ/view?usp=sharing)
 
 ## Books
 
-* [Fun with Bugs](https://www.funwithbugs.com/store/produkt/podroz-przez-swiat-testowania-miekka-okladka/) - in progress
+* [Fun with Bugs](https://www.funwithbugs.com/store/produkt/podroz-przez-swiat-testowania-miekka-okladka/)
 * [Zawód tester. Od decyzji do zdobycia doświadczenia](https://www.taniaksiazka.pl/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin-p-995278.html?utm_source=google&utm_medium=cpc&utm_campaign=shopping&gclid=EAIaIQobChMI5fCNgvS99gIVg0aRBR3lUAK1EAQYBCABEgJp2fD_BwE)
 
 ## Groups for knowledge gathering
